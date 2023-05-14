@@ -16,3 +16,4 @@ Some papers about 2D objection detection on image
 13. nanodet  
 14. tffnet  
 15. detr  
+16. Deformable DETR  
