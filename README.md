@@ -19,3 +19,5 @@ Some papers about 2D objection detection on image
 16. Deformable DETR  
 
 ### 一个非常好的了解CNN网络的[网站](https://poloclub.github.io/cnn-explainer/)  
+### FPS（最远点采用）讲的超棒的[网站](https://blog.csdn.net/qq_35632833/article/details/104592093?spm=1001.2101.3001.6650.2&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-2-104592093-blog-124644326.235%5Ev36%5Epc_relevant_default_base3&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-2-104592093-blog-124644326.235%5Ev36%5Epc_relevant_default_base3&utm_relevant_index=5)  
+
